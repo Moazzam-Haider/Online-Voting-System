@@ -1,0 +1,17 @@
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\bin\Debug\Onlne Voting System.exe.config
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\bin\Debug\Onlne Voting System.exe
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\bin\Debug\Onlne Voting System.pdb
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne Voting System.csproj.AssemblyReference.cache
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne Voting System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne_Voting_System.Form1.resources
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne_Voting_System.Form2.resources
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne_Voting_System.Properties.Resources.resources
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne Voting System.csproj.GenerateResource.cache
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne Voting System.csproj.CoreCompileInputs.cache
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne Voting System.exe
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne Voting System.pdb
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne_Voting_System.Form3.resources
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne_Voting_System.Form4.resources
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne_Voting_System.Form5.resources
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne_Voting_System.Form6.resources
+C:\Users\Moazzam\source\repos\Onlne Voting System\Onlne Voting System\obj\Debug\Onlne_Voting_System.Form7.resources
